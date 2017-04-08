@@ -122,3 +122,4 @@ obj/AlignmentMain.o: src/AlignmentMain.c \
 clean:
 	@echo "Cleaning"
 	@rm -rf obj/*.o bin/readTrace bin/G-PhoCS-1-2-3
+
